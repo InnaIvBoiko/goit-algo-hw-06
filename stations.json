@@ -1,0 +1,580 @@
+{
+  "stations": [
+    {
+      "id": 1,
+      "name": "Rho Fiera",
+      "line": "M1",
+      "coordinates": [45.5236, 8.9250]
+    },
+    {
+      "id": 2,
+      "name": "Pero",
+      "line": "M1",
+      "coordinates": [45.5156, 8.9281]
+    },
+    {
+      "id": 3,
+      "name": "Molino Dorino",
+      "line": "M1",
+      "coordinates": [45.5076, 8.9312]
+    },
+    {
+      "id": 4,
+      "name": "San Leonardo",
+      "line": "M1",
+      "coordinates": [45.4996, 8.9343]
+    },
+    {
+      "id": 5,
+      "name": "Bonola",
+      "line": "M1",
+      "coordinates": [45.4916, 8.9374]
+    },
+    {
+      "id": 6,
+      "name": "Uruguay",
+      "line": "M1",
+      "coordinates": [45.4836, 8.9405]
+    },
+    {
+      "id": 7,
+      "name": "Lampugnano",
+      "line": "M1",
+      "coordinates": [45.4756, 8.9436]
+    },
+    {
+      "id": 8,
+      "name": "QT8",
+      "line": "M1",
+      "coordinates": [45.4676, 8.9467]
+    },
+    {
+      "id": 9,
+      "name": "San Siro Stadio",
+      "line": "M5",
+      "coordinates": [45.4596, 8.9498]
+    },
+    {
+      "id": 10,
+      "name": "San Siro Ippodromo",
+      "line": "M5",
+      "coordinates": [45.4516, 8.9529]
+    },
+    {
+      "id": 11,
+      "name": "Segesta",
+      "line": "M1",
+      "coordinates": [45.4436, 8.9560]
+    },
+    {
+      "id": 12,
+      "name": "Lotto",
+      "line": "M1-M5",
+      "coordinates": [45.4356, 8.9591]
+    },
+    {
+      "id": 13,
+      "name": "Amendola",
+      "line": "M1",
+      "coordinates": [45.4276, 8.9622]
+    },
+    {
+      "id": 14,
+      "name": "Buonarroti",
+      "line": "M1",
+      "coordinates": [45.4196, 8.9653]
+    },
+    {
+      "id": 15,
+      "name": "Wagner",
+      "line": "M1",
+      "coordinates": [45.4116, 8.9684]
+    },
+    {
+      "id": 16,
+      "name": "De Angeli",
+      "line": "M1",
+      "coordinates": [45.4036, 8.9715]
+    },
+    {
+      "id": 17,
+      "name": "Gambara",
+      "line": "M1",
+      "coordinates": [45.3956, 8.9746]
+    },
+    {
+      "id": 18,
+      "name": "Bande Nere",
+      "line": "M1",
+      "coordinates": [45.3876, 8.9777]
+    },
+    {
+      "id": 19,
+      "name": "Primaticcio",
+      "line": "M1",
+      "coordinates": [45.3796, 8.9808]
+    },
+    {
+      "id": 20,
+      "name": "Inganni",
+      "line": "M1",
+      "coordinates": [45.3716, 8.9839]
+    },
+    {
+      "id": 21,
+      "name": "Bisceglie",
+      "line": "M1",
+      "coordinates": [45.3636, 8.9870]
+    },
+    {
+      "id": 22,
+      "name": "Cadorna",
+      "line": "M1-M2",
+      "coordinates": [45.4717, 9.1740]
+    },
+    {
+      "id": 23,
+      "name": "Cairoli",
+      "line": "M1",
+      "coordinates": [45.4697, 9.1810]
+    },
+    {
+      "id": 24,
+      "name": "Cordusio",
+      "line": "M1",
+      "coordinates": [45.4647, 9.1850]
+    },
+    {
+      "id": 25,
+      "name": "Duomo",
+      "line": "M1-M3",
+      "coordinates": [45.4640, 9.1896]
+    },
+    {
+      "id": 26,
+      "name": "San Babila",
+      "line": "M1",
+      "coordinates": [45.4677, 9.1976]
+    },
+    {
+      "id": 27,
+      "name": "Palestro",
+      "line": "M1",
+      "coordinates": [45.4757, 9.2056]
+    },
+    {
+      "id": 28,
+      "name": "Porta Venezia",
+      "line": "M1",
+      "coordinates": [45.4789, 9.2073]
+    },
+    {
+      "id": 29,
+      "name": "Lima",
+      "line": "M1",
+      "coordinates": [45.4821, 9.2091]
+    },
+    {
+      "id": 30,
+      "name": "Loreto",
+      "line": "M1-M2",
+      "coordinates": [45.4851, 9.2108]
+    },
+    {
+      "id": 31,
+      "name": "Pasteur",
+      "line": "M1",
+      "coordinates": [45.4881, 9.2126]
+    },
+    {
+      "id": 32,
+      "name": "Rovereto",
+      "line": "M1",
+      "coordinates": [45.4911, 9.2143]
+    },
+    {
+      "id": 33,
+      "name": "Turro",
+      "line": "M1",
+      "coordinates": [45.4941, 9.2161]
+    },
+    {
+      "id": 34,
+      "name": "Gorla",
+      "line": "M1",
+      "coordinates": [45.4971, 9.2178]
+    },
+    {
+      "id": 35,
+      "name": "Precotto",
+      "line": "M1",
+      "coordinates": [45.5001, 9.2196]
+    },
+    {
+      "id": 36,
+      "name": "Villa San Giovanni",
+      "line": "M1",
+      "coordinates": [45.5031, 9.2213]
+    },
+    {
+      "id": 37,
+      "name": "Sesto Marelli",
+      "line": "M1",
+      "coordinates": [45.5061, 9.2231]
+    },
+    {
+      "id": 38,
+      "name": "Sesto Rondo",
+      "line": "M1",
+      "coordinates": [45.5091, 9.2248]
+    },
+    {
+      "id": 39,
+      "name": "Sesto FS",
+      "line": "M1",
+      "coordinates": [45.5121, 9.2266]
+    },
+    {
+      "id": 40,
+      "name": "Sesto Marelli",
+      "line": "M1",
+      "coordinates": [45.5151, 9.2283]
+    },
+    {
+      "id": 41,
+      "name": "Cologno Nord",
+      "line": "M2",
+      "coordinates": [45.5321, 9.2883]
+    },
+    {
+      "id": 42,
+      "name": "Cologno Centro",
+      "line": "M2",
+      "coordinates": [45.5291, 9.2853]
+    },
+    {
+      "id": 43,
+      "name": "Cologno Sud",
+      "line": "M2",
+      "coordinates": [45.5261, 9.2823]
+    },
+    {
+      "id": 44,
+      "name": "Vimodrone",
+      "line": "M2",
+      "coordinates": [45.5231, 9.2793]
+    },
+    {
+      "id": 45,
+      "name": "Cascina Burrona",
+      "line": "M2",
+      "coordinates": [45.5201, 9.2763]
+    },
+    {
+      "id": 46,
+      "name": "Cascina Gobba",
+      "line": "M2",
+      "coordinates": [45.5171, 9.2733]
+    },
+    {
+      "id": 47,
+      "name": "Udine",
+      "line": "M2",
+      "coordinates": [45.4941, 9.2203]
+    },
+    {
+      "id": 48,
+      "name": "Lambrate FS",
+      "line": "M2",
+      "coordinates": [45.4911, 9.2173]
+    },
+    {
+      "id": 49,
+      "name": "Piola",
+      "line": "M2",
+      "coordinates": [45.4781, 9.2153]
+    },
+    {
+      "id": 50,
+      "name": "Centrale",
+      "line": "M2-M3",
+      "coordinates": [45.4861, 9.2043]
+    },
+    {
+      "id": 51,
+      "name": "Gioia",
+      "line": "M2",
+      "coordinates": [45.4831, 9.1963]
+    },
+    {
+      "id": 52,
+      "name": "Garibaldi FS",
+      "line": "M2-M5",
+      "coordinates": [45.4851, 9.1883]
+    },
+    {
+      "id": 53,
+      "name": "Moscova",
+      "line": "M2",
+      "coordinates": [45.4791, 9.1863]
+    },
+    {
+      "id": 54,
+      "name": "Lanza",
+      "line": "M2",
+      "coordinates": [45.4731, 9.1843]
+    },
+    {
+      "id": 55,
+      "name": "Repubblica",
+      "line": "M3",
+      "coordinates": [45.4811, 9.1983]
+    },
+    {
+      "id": 56,
+      "name": "Turati",
+      "line": "M3",
+      "coordinates": [45.4751, 9.1933]
+    },
+    {
+      "id": 57,
+      "name": "Montenapoleone",
+      "line": "M3",
+      "coordinates": [45.4691, 9.1893]
+    },
+    {
+      "id": 58,
+      "name": "Missori",
+      "line": "M3",
+      "coordinates": [45.4631, 9.1853]
+    },
+    {
+      "id": 59,
+      "name": "Crocetta",
+      "line": "M3",
+      "coordinates": [45.4571, 9.1813]
+    },
+    {
+      "id": 60,
+      "name": "Porta Romana",
+      "line": "M3",
+      "coordinates": [45.4511, 9.1773]
+    },
+    {
+      "id": 61,
+      "name": "Lodi TIBB",
+      "line": "M3",
+      "coordinates": [45.4451, 9.1733]
+    },
+    {
+      "id": 62,
+      "name": "Brenta",
+      "line": "M3",
+      "coordinates": [45.4391, 9.1693]
+    },
+    {
+      "id": 63,
+      "name": "Corvetto",
+      "line": "M3",
+      "coordinates": [45.4331, 9.1653]
+    },
+    {
+      "id": 64,
+      "name": "Porto di Mare",
+      "line": "M3",
+      "coordinates": [45.4271, 9.1613]
+    },
+    {
+      "id": 65,
+      "name": "Rogoredo FS",
+      "line": "M3",
+      "coordinates": [45.4211, 9.1573]
+    },
+    {
+      "id": 66,
+      "name": "San Donato",
+      "line": "M3",
+      "coordinates": [45.4151, 9.1533]
+    },
+    {
+      "id": 67,
+      "name": "Zara",
+      "line": "M3-M5",
+      "coordinates": [45.5071, 9.1893]
+    },
+    {
+      "id": 68,
+      "name": "Sondrio",
+      "line": "M3",
+      "coordinates": [45.5011, 9.1853]
+    },
+    {
+      "id": 69,
+      "name": "Maciachini",
+      "line": "M3",
+      "coordinates": [45.4951, 9.1813]
+    },
+    {
+      "id": 70,
+      "name": "Dergano",
+      "line": "M3",
+      "coordinates": [45.4891, 9.1773]
+    },
+    {
+      "id": 71,
+      "name": "Affori FN",
+      "line": "M3",
+      "coordinates": [45.4831, 9.1733]
+    },
+    {
+      "id": 72,
+      "name": "Affori Centro",
+      "line": "M3",
+      "coordinates": [45.4771, 9.1693]
+    },
+    {
+      "id": 73,
+      "name": "Comasina",
+      "line": "M3",
+      "coordinates": [45.4711, 9.1653]
+    },
+    {
+      "id": 74,
+      "name": "Bignami",
+      "line": "M5",
+      "coordinates": [45.5291, 9.1773]
+    },
+    {
+      "id": 75,
+      "name": "Ponale",
+      "line": "M5",
+      "coordinates": [45.5231, 9.1733]
+    },
+    {
+      "id": 76,
+      "name": "Bicocca",
+      "line": "M5",
+      "coordinates": [45.5171, 9.1693]
+    },
+    {
+      "id": 77,
+      "name": "Ca' Granda",
+      "line": "M5",
+      "coordinates": [45.5111, 9.1653]
+    },
+    {
+      "id": 78,
+      "name": "Istria",
+      "line": "M5",
+      "coordinates": [45.5051, 9.1613]
+    },
+    {
+      "id": 79,
+      "name": "Marche",
+      "line": "M5",
+      "coordinates": [45.4991, 9.1573]
+    },
+    {
+      "id": 80,
+      "name": "Isola",
+      "line": "M5",
+      "coordinates": [45.4851, 9.1823]
+    },
+    {
+      "id": 81,
+      "name": "Monumentale",
+      "line": "M5",
+      "coordinates": [45.4791, 9.1783]
+    },
+    {
+      "id": 82,
+      "name": "Tre Torri",
+      "line": "M5",
+      "coordinates": [45.4731, 9.1743]
+    },
+    {
+      "id": 83,
+      "name": "Domodossola FN",
+      "line": "M5",
+      "coordinates": [45.4671, 9.1703]
+    },
+    {
+      "id": 84,
+      "name": "Gerusalemme",
+      "line": "M5",
+      "coordinates": [45.4611, 9.1663]
+    },
+    {
+      "id": 85,
+      "name": "Cenisio",
+      "line": "M5",
+      "coordinates": [45.4551, 9.1623]
+    },
+    {
+      "id": 86,
+      "name": "Portello",
+      "line": "M5",
+      "coordinates": [45.4491, 9.1583]
+    },
+    {
+      "id": 87,
+      "name": "Pagano",
+      "line": "M1",
+      "coordinates": [45.4721, 9.1740]
+    },
+    {
+      "id": 88,
+      "name": "Conciliazione",
+      "line": "M1",
+      "coordinates": [45.4681, 9.1720]
+    },
+    {
+      "id": 89,
+      "name": "Sant'Ambrogio",
+      "line": "M2",
+      "coordinates": [45.4621, 9.1700]
+    },
+    {
+      "id": 90,
+      "name": "Sant'Agostino",
+      "line": "M2",
+      "coordinates": [45.4581, 9.1680]
+    },
+    {
+      "id": 91,
+      "name": "Porta Genova FS",
+      "line": "M2",
+      "coordinates": [45.4541, 9.1660]
+    },
+    {
+      "id": 92,
+      "name": "Romolo",
+      "line": "M2",
+      "coordinates": [45.4501, 9.1640]
+    },
+    {
+      "id": 93,
+      "name": "Famagosta",
+      "line": "M2",
+      "coordinates": [45.4461, 9.1620]
+    },
+    {
+      "id": 94,
+      "name": "Abbiategrasso",
+      "line": "M2",
+      "coordinates": [45.4421, 9.1600]
+    },
+    {
+      "id": 95,
+      "name": "Assago Milanofiori Nord",
+      "line": "M2",
+      "coordinates": [45.4381, 9.1580]
+    },
+    {
+      "id": 96,
+      "name": "Assago Milanofiori Forum",
+      "line": "M2",
+      "coordinates": [45.4341, 9.1560]
+    }
+  ]
+}
